@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1731593048413,
+      "tag": "0000_previous_night_thrasher",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1731598120726,
+      "tag": "0001_sharp_baron_strucker",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1731607236473,
+      "tag": "0002_early_weapon_omega",
+      "breakpoints": true
+    }
+  ]
+}
